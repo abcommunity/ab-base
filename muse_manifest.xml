@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animesbrasil.github.io" resolutions="1x" timestamp="1528823450977">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animesbrasil.github.io" resolutions="1x" timestamp="1528826450938">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3800313540" ref="index"/>
-    <file name="nomq_index.css" crc="283663736" ref="index"/>
+    <file name="index.css" crc="84585765" ref="index"/>
+    <file name="nomq_index.css" crc="400576238" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sexy-hamburger.mulib" crc="131742631" seo="true" mt="1522210839000"/>
@@ -25,32 +25,9 @@
     <file name="animesbrasil-logofull.png" crc="3816686615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x1080.jpg" crc="254198671" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x10802.jpg" crc="382766660" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x10803.jpg" crc="3964856421" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x10804.jpg" crc="94326210" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x1080720x405.jpg" crc="87260581" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x1080720x4052.jpg" crc="138752587" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x1080720x4053.jpg" crc="527731498" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1920x1080720x4054.jpg" crc="4147676891" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4134456982" seo="true" mt="1528823406301" redirect="true"/>
+  <file name="index.html" crc="3787095180" seo="true" mt="1528826440629" redirect="true"/>
 </manifest>
